@@ -16,6 +16,9 @@
 // limitations under the License.
 //
 
+soong_namespace {
+}
+
 android_app {
     name: "AntHalService",
 
